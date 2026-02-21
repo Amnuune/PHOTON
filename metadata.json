@@ -1,0 +1,8 @@
+{
+  "name": "PhotonCamera Web",
+  "description": "A high-performance camera application with enhanced image processing UI, rewritten in React and TypeScript.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
